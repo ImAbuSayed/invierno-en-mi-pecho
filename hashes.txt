@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Invierno en mi pecho
+
+This log tracks the cryptographic history and versioning for the song **Invierno en mi pecho** (invierno-en-mi-pecho).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:03:20.765753 | `v1` | `1b36b7c7032291e99d839d730a2a3e5b9bca3935bc3871a810d6db3219cb9a5c` | `6e804fa87ba20a76e9a4a4568642585224abfa7263d15c2c874dfccb9d45c96b` | `2026-06-18_invierno-en-mi-pecho-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

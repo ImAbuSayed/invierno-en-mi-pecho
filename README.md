@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/invierno-en-mi-pecho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Invierno en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/invierno-en-mi-pecho/) |
+| **Get License** | [Official Music Licensing for Invierno en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/invierno-en-mi-pecho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1b36b7c7032291e99d839d730a2a3e5b9bca3935bc3871a810d6db3219cb9a5c` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
