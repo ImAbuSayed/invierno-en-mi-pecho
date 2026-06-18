@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/invierno-en-mi-pecho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Invierno en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/invierno-en-mi-pecho/) |
+| **Get License** | [Get a Licensing Quote for Invierno en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/invierno-en-mi-pecho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el invierno en mi pecho cada vez que tú te vas,
+> pero hoy te tengo de frente y el hielo se va a quemar.
+> Tú tienes ese veneno que me obliga a confesar,
+> dale, pégate un poquito, que no existe marcha atrás.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
